@@ -1,0 +1,18 @@
+.card {
+   transition: 0.8s;
+}
+.card:hover {
+    transform: rotateX('30deg');
+}
+.pink {
+    border-left: rgb(255, 0, 191) solid 5px;
+}
+.ungu {
+    border-left: rgb(179, 0, 255) solid 5px;
+}
+.hijau {
+    border-left: rgb(0, 255, 47) solid 5px;
+}
+.kuning {
+    border-left: rgb(229, 255, 0) solid 5px;
+}

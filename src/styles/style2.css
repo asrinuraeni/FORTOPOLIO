@@ -1,0 +1,22 @@
+.slide2-wrapper{
+    width: 680px;
+    height: 500px;
+    background-color: rgb(58, 82, 120);
+    padding: 40px;
+    font-size: 18px;
+  
+
+}
+
+.slide3-container{
+    width: 340px;
+    background-color: rgb(58, 82, 120);
+    padding: 40px;
+    right: center;
+  
+
+}
+.img{
+    float: left;
+    margin: 50px;
+}

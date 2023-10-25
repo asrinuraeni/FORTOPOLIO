@@ -1,0 +1,25 @@
+.slide-container{
+    width: 340px;
+    background-color: rgb(173, 52, 52);
+    padding: 40px;
+    border-radius: 35px;
+
+}
+.slide-img {
+    width: 100%;
+    border-radius: 1rem 1rem 0 0;
+}
+.slide-title, 
+.web-description  {
+    margin: 0.5rem 5%;
+}
+.slide-btn {
+    text-align: center;
+    width: 90%;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    background-color: antiquewhite;
+    color: white;
+    text-decoration: none;
+    margin: 0.5rem;
+}
